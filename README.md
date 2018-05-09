@@ -1,2 +1,2 @@
-# SwiftPackageSample
+# ReusableFramework
 Sample application on swift package creation
